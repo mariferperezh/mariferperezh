@@ -4,7 +4,7 @@ I'm **María Fernanda Pérez Herrera**, a Mechatronics Engineer turned High Scho
 
 ### A little about me:  
 - 🛠️ **Tech Skills**: Python, C++, Java, Matlab, SOLIDWORKS (CSWA Certified 🏅), PCB design, control systems, robotics, and even SAP SD for those business vibes!  
-- 📊 **Bonus Abilities**: Data analysis, process optimization, and software management.  
+- 📊 **Relevant Courses**: Artificial Intelligence, Algorithms and Programing, Object-Oriented Language, Structured Programming with Microcontrollers, Embedded Systems, Automation, Industrial Robotics
 - 🤓 **Teaching Roots**: Started as a math & programming tutor during my studies – now I teach tech to high school students!  
 
 ### Beyond Tech:  
@@ -13,4 +13,4 @@ I'm **María Fernanda Pérez Herrera**, a Mechatronics Engineer turned High Scho
 ### Find me on TikTok 🎥✨  
 Check out my creative content [here on TikTok!](https://www.tiktok.com/@moferperez?is_from_webapp=1&sender_device=pc)  
 
-![My TikTok Thumbnail](https://your-image-url-here.com/image.png)  
+![My TikTok Thumbnail](https://i.ibb.co/xY00T6W/03.jpg)  
